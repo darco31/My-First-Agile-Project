@@ -17,6 +17,6 @@ As a **role** I can **capability** so that **received benefit**
 
 # Tasks
 
-* Task One
-* Task Two
-* Task Three
+- [ ] Task One
+- [ ] Task Two
+- [ ] Task Three
